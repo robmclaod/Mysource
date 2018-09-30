@@ -1,4 +1,4 @@
-# EXTM3U
+#EXTM3U
 #EXTINF:BUZZR
 https://buzzr-zixi.global.ssl.fastly.net/BUZZR_HLS/BUZZR_SRC_primary-BUZZR_PLUTO_2400-zyNt8Qt1T7.m3u8
 #EXTINF:-1,OWN HD
