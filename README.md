@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:BUZZR
-https://buzzr-zixi.global.ssl.fastly.net/BUZZR_HLS/BUZZR_SRC_primary-BUZZR_PLUTO_2400-zyNt8Qt1T7.m3u8
+#EXTINF:-1,BUZZR
+https://buzzr-zixi.global.ssl.fastly.net/BUZZR_HLS.m3u8
 #EXTINF:-1,OWN
 http://w3.cdn.anvato.net/live/ephemeral/3QA1gOwdRzqhnwPBUewI5VY7Yd9pnkvb/owny/2596k/index.m3u8
 #EXTINF:-1,FRANCE24
